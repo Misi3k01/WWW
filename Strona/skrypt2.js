@@ -54,3 +54,38 @@ if(x < 7) {
 } else {
     console.log("x >= 7")
 }
+/*
+operatory logiczne
+&& //and
+|| //or
+! //not
+^ //xor
+*/
+
+if(x == 2 && y == 2) {
+    console.log ("x=2,y=5");
+} //and
+
+if(x == 2 || y == 2) {
+    console.log ("x=2,y=2");
+} //or
+
+if(x == 2 ^ y == 2) {
+    console.log ("x=2,y=2");
+} //xor
+
+if(x == 2 ^ y == 5 || z == 0) {
+    console.log ("x=2,y=2");
+}
+
+if(z == 0 || x == 2 ^ y == 5) {
+    console.log ("x=2,y=2");
+} else if (x = 7) {
+    console.log ('x = 7');
+} else {
+    console.log ('x > 7');
+}
+
+for(let i = 0; i < 10; i++) {
+    console.log(i);
+}
