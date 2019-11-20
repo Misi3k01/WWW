@@ -29,7 +29,7 @@ function bubblesort(arr) {
     } while(ch)
     return arr;
 }
-bubblesort(nazwa tablicy)
+bubblesort(nazwa_tablicy)
 
 var array = [];
 for(let i = 0; i < 20; i++) {
