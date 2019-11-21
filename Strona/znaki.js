@@ -10,3 +10,5 @@ console.log(ddd);
 \b //backspace (cofa jeden znak)
 \t //tabulator poziomy
 \v //tabulator pionowy
+
+aaa.lenght; //wypisuje ciąg znaków
