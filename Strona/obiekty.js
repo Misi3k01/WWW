@@ -29,8 +29,8 @@ class Car {
 }
 
 class Truck extends Car {
-    constructor() {
-        super();
+    constructor(color, type, manufacturer, model, engine, fuel, wheel, pipe, tires) {
+        super(color, type, manufacturer, model, engine, fuel);
         this.wheel = wheel;
         this.pipe = pipe;
         this.tires = tires;
