@@ -1,0 +1,22 @@
+p::first-letter {
+    
+}
+p::selection {
+    color:red;
+    background-color: rgb(62, 94, 163);
+}
+
+a {
+
+
+}
+
+a:hover {
+
+
+}
+
+div:nth-child(2) {
+
+
+}
